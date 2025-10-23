@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "canvas": "^3.0.0",
-    "fs-extra": "^11.2.0"
+    "fs-extra": "^11.3.2"
   }
 }
