@@ -1,0 +1,12 @@
+{
+  "name": "hacker-snake",
+  "version": "1.0.0",
+  "main": "src/hacker-snake.js",
+  "scripts": {
+    "start": "node src/hacker-snake.js"
+  },
+  "dependencies": {
+    "canvas": "^3.0.0",
+    "fs-extra": "^11.2.0"
+  }
+}
